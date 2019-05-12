@@ -1,44 +1,44 @@
-body{
+body {
     font-size:16px; 
     font-family: Arial, sans-serif;
 }
-h2, h3, h4{ 
+h2, h3, h4 { 
     font-family:'Quattrocentro', 'Arial Narrow', Arial, sans-serif;
     margin: .25rem;
 }
-h2{
+h2 {
     color: yellow;
     font-size: 1.2rem;
     font-style: italic;
 }
-h3{
+h3 {
     color: navy;
     font-size:1.2rem;
 }
-header, main, footer{
+header, main, footer {
     margin:1rem auto;
     padding: .5rem;
     max-width: 480px;
 } 
-header, footer{
+header, footer {
     background-color: #ffff;
 }
-footer{
+footer {
     text-align: center;
 }
 footer a{
     color: #fff;
 }
-img{
+img {
     width: 100%;
 }
-.rightalign{
+.rightalign {
     float: right;
     width: 150px;
     height: auto;
     box-shadow: 0 0 30px #777;
 }
-.caption{
+.caption {
     font-size: smaller;
     color:grey;
 }
